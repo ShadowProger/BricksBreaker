@@ -1,0 +1,200 @@
+<skins>
+    <skin
+        id = "0"
+        name = "WHITE BALL"
+        price = "-1"
+        sprite = "Ball_1"
+    />
+    <skin
+        id = "1"
+        name = "YELLOW BALL"
+        price = "0"
+        sprite = "Ball_2"
+    />
+    <skin
+        id = "2"
+        name = "PINK BALL"
+        price = "0"
+        sprite = "Ball_3"
+    />
+    <skin
+        id = "3"
+        name = "ORANGE BALL"
+        price = "30"
+        sprite = "16"
+    />
+    <skin
+        id = "4"
+        name = "GREEN BALL"
+        price = "30"
+        sprite = "17"
+    />
+    <skin
+        id = "5"
+        name = "PURPLE BALL"
+        price = "30"
+        sprite = "18"
+    />
+	<skin
+        id = "6"
+        name = "POKEBALL"
+        price = "50"
+        sprite = "13"
+    />
+	<skin
+        id = "7"
+        name = "PINK POKEBALL"
+        price = "50"
+        sprite = "14"
+    />
+	<skin
+        id = "8"
+        name = "BLUE POKEBALL"
+        price = "50"
+        sprite = "15"
+    />
+	<skin
+        id = "9"
+        name = "BOWLING"
+        price = "0"
+        sprite = "7"
+    />
+	<skin
+        id = "10"
+        name = "POOL"
+        price = "0"
+        sprite = "8"
+    />
+	<skin
+        id = "11"
+        name = "FOOTBALL"
+        price = "0"
+        sprite = "11"
+    />
+	<skin
+        id = "12"
+        name = "VOLLEYBALL"
+        price = "100"
+        sprite = "9"
+    />
+	<skin
+        id = "13"
+        name = "BASEBALL"
+        price = "100"
+        sprite = "10"
+    />
+	<skin
+        id = "14"
+        name = "BASKETBALL"
+        price = "100"
+        sprite = "12"
+    />
+	<skin
+        id = "15"
+        name = "WATERMELON"
+        price = "150"
+        sprite = "22"
+    />
+	<skin
+        id = "16"
+        name = "OGANGE"
+        price = "150"
+        sprite = "24"
+    />
+	<skin
+        id = "17"
+        name = "KIWI"
+        price = "150"
+        sprite = "30"
+    />
+	<skin
+        id = "18"
+        name = "YELLOW DONUT"
+        price = "0"
+        sprite = "25"
+    />
+	<skin
+        id = "19"
+        name = "WHITE DONUT"
+        price = "0"
+        sprite = "26"
+    />
+	<skin
+        id = "20"
+        name = "RED DONUT"
+        price = "0"
+        sprite = "27"
+    />
+	<skin
+        id = "21"
+        name = "CAPTAIN"
+        price = "175"
+        sprite = "19"
+    />
+	<skin
+        id = "22"
+        name = "SUPERMAN"
+        price = "175"
+        sprite = "21"
+    />
+	<skin
+        id = "23"
+        name = "BATMAN"
+        price = "175"
+        sprite = "20"
+    />
+	<skin
+        id = "24"
+        name = "APPLE"
+        price = "200"
+        sprite = "31"
+    />
+	<skin
+        id = "25"
+        name = "ORANGE"
+        price = "200"
+        sprite = "32"
+    />
+	<skin
+        id = "26"
+        name = "STRAWBERRY"
+        price = "200"
+        sprite = "33"
+    />
+	<skin
+        id = "27"
+        name = "MONSTER"
+        price = "225"
+        sprite = "36"
+    />
+	<skin
+        id = "28"
+        name = "ANGRY BALL"
+        price = "225"
+        sprite = "34"
+    />
+	<skin
+        id = "29"
+        name = "SMILE BALL"
+        price = "225"
+        sprite = "35"
+    />
+	<skin
+        id = "30"
+        name = "EYEBALL"
+        price = "250"
+        sprite = "38"
+    />
+	<skin
+        id = "31"
+        name = "SKULL"
+        price = "250"
+        sprite = "37"
+    />
+	<skin
+        id = "32"
+        name = "CLOCK"
+        price = "250"
+        sprite = "39"
+    />
+</skins>

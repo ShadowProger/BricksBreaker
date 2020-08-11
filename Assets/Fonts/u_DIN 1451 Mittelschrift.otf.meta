@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1782582bc50f4ca4fa673726eef29366
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: u_DIN 1451 Mittelschrift [RUS b
+  fontNames:
+  - u_DIN 1451 Mittelschrift [RUS b
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

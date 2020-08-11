@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkinAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: ebbfb97740b04bb48ad2a5f892ebf075, type: 3}
+    - {fileID: 21300000, guid: fe1b8c89fc9313946bea8724000bdbe4, type: 3}
+    - {fileID: 21300000, guid: 0ca8c8545771ce744867c014c2ecc978, type: 3}
+    - {fileID: 21300000, guid: d96542ea1f70f9f43a1e1d17abccca8c, type: 3}
+    - {fileID: 21300000, guid: 5607429ac8a439f4189d384a2fcd8601, type: 3}
+    - {fileID: 21300000, guid: 10dfa396c91fbe74293958db77c13713, type: 3}
+    - {fileID: 21300000, guid: a9c7c2c0e1f72a0499909387d9b4dd77, type: 3}
+    - {fileID: 21300000, guid: ca28545d726e13c49ab6d818dc017c3c, type: 3}
+    - {fileID: 21300000, guid: 77d91311219f8634491189d1207c3eea, type: 3}
+    - {fileID: 21300000, guid: a686b7daadfdf2b44b5c1f97088ee2ab, type: 3}
+    - {fileID: 21300000, guid: 3d0a4a7fd6cf7494fad86080370c3cdf, type: 3}
+    - {fileID: 21300000, guid: 14dc37e31647cc04faa3b2145fe04b34, type: 3}
+    - {fileID: 21300000, guid: 077fdd78dff11634785cec9b11a548b6, type: 3}
+    - {fileID: 21300000, guid: 8285eaf7316a5dc438af1c13a8a91d24, type: 3}
+    - {fileID: 21300000, guid: f04fa744b0412184292dab4a53180085, type: 3}
+    - {fileID: 21300000, guid: 077437ecd6fc84e4d90f7d9db4a4f2a6, type: 3}
+    - {fileID: 21300000, guid: 0c9292051da1037408f806dcbeddbbd6, type: 3}
+    - {fileID: 21300000, guid: 419aea4e5af6ea244bb7134e2afb2024, type: 3}
+    - {fileID: 21300000, guid: 11ed3a8822021924883385a8071b84d7, type: 3}
+    - {fileID: 21300000, guid: e8c4547dddeaa854882138f061e6d2dd, type: 3}
+    - {fileID: 21300000, guid: e891b95d1941460499af822425eac539, type: 3}
+    - {fileID: 21300000, guid: c06deaf0051429444bacea229469778c, type: 3}
+    - {fileID: 21300000, guid: da2da719d08659c49ae9f3aaf68cc9e1, type: 3}
+    - {fileID: 21300000, guid: 9ff044ddfeac7d144bde774c2bd7abb6, type: 3}
+    - {fileID: 21300000, guid: b832d986f2eb2164e90d42a959725360, type: 3}
+    - {fileID: 21300000, guid: c6946ef14606c494bb9265dbf4b4b465, type: 3}
+    - {fileID: 21300000, guid: 4d9b79db0bb751f4a8e377b07bfa3a47, type: 3}
+    - {fileID: 21300000, guid: 9aa22cdf7271e224d990779c3cb5e46b, type: 3}
+    - {fileID: 21300000, guid: f755919056bfcbc4ca72b93678c13165, type: 3}
+    - {fileID: 21300000, guid: bef0a5fe010fd3c449147d0cde248252, type: 3}
+    - {fileID: 21300000, guid: 8dc82c0cd006a6e479104535892122d5, type: 3}
+    - {fileID: 21300000, guid: bf010491128913548a6d0089f128f9cb, type: 3}
+    - {fileID: 21300000, guid: b22dfd9810166764f982820c0dee4bcc, type: 3}
+    totalSpriteSurfaceArea: 1672198
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f755919056bfcbc4ca72b93678c13165, type: 3}
+  - {fileID: 21300000, guid: a9c7c2c0e1f72a0499909387d9b4dd77, type: 3}
+  - {fileID: 21300000, guid: c06deaf0051429444bacea229469778c, type: 3}
+  - {fileID: 21300000, guid: 77d91311219f8634491189d1207c3eea, type: 3}
+  - {fileID: 21300000, guid: bf010491128913548a6d0089f128f9cb, type: 3}
+  - {fileID: 21300000, guid: c6946ef14606c494bb9265dbf4b4b465, type: 3}
+  - {fileID: 21300000, guid: 14dc37e31647cc04faa3b2145fe04b34, type: 3}
+  - {fileID: 21300000, guid: f04fa744b0412184292dab4a53180085, type: 3}
+  - {fileID: 21300000, guid: 0ca8c8545771ce744867c014c2ecc978, type: 3}
+  - {fileID: 21300000, guid: 0c9292051da1037408f806dcbeddbbd6, type: 3}
+  - {fileID: 21300000, guid: b832d986f2eb2164e90d42a959725360, type: 3}
+  - {fileID: 21300000, guid: 10dfa396c91fbe74293958db77c13713, type: 3}
+  - {fileID: 21300000, guid: ebbfb97740b04bb48ad2a5f892ebf075, type: 3}
+  - {fileID: 21300000, guid: 8285eaf7316a5dc438af1c13a8a91d24, type: 3}
+  - {fileID: 21300000, guid: 077fdd78dff11634785cec9b11a548b6, type: 3}
+  - {fileID: 21300000, guid: 11ed3a8822021924883385a8071b84d7, type: 3}
+  - {fileID: 21300000, guid: b22dfd9810166764f982820c0dee4bcc, type: 3}
+  - {fileID: 21300000, guid: da2da719d08659c49ae9f3aaf68cc9e1, type: 3}
+  - {fileID: 21300000, guid: fe1b8c89fc9313946bea8724000bdbe4, type: 3}
+  - {fileID: 21300000, guid: 5607429ac8a439f4189d384a2fcd8601, type: 3}
+  - {fileID: 21300000, guid: a686b7daadfdf2b44b5c1f97088ee2ab, type: 3}
+  - {fileID: 21300000, guid: d96542ea1f70f9f43a1e1d17abccca8c, type: 3}
+  - {fileID: 21300000, guid: 4d9b79db0bb751f4a8e377b07bfa3a47, type: 3}
+  - {fileID: 21300000, guid: 8dc82c0cd006a6e479104535892122d5, type: 3}
+  - {fileID: 21300000, guid: 077437ecd6fc84e4d90f7d9db4a4f2a6, type: 3}
+  - {fileID: 21300000, guid: ca28545d726e13c49ab6d818dc017c3c, type: 3}
+  - {fileID: 21300000, guid: e891b95d1941460499af822425eac539, type: 3}
+  - {fileID: 21300000, guid: e8c4547dddeaa854882138f061e6d2dd, type: 3}
+  - {fileID: 21300000, guid: 9ff044ddfeac7d144bde774c2bd7abb6, type: 3}
+  - {fileID: 21300000, guid: 419aea4e5af6ea244bb7134e2afb2024, type: 3}
+  - {fileID: 21300000, guid: bef0a5fe010fd3c449147d0cde248252, type: 3}
+  - {fileID: 21300000, guid: 3d0a4a7fd6cf7494fad86080370c3cdf, type: 3}
+  - {fileID: 21300000, guid: 9aa22cdf7271e224d990779c3cb5e46b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 30
+  - 8
+  - 37
+  - 10
+  - 33
+  - 27
+  - 13
+  - 16
+  - Ball_3
+  - 18
+  - 26
+  - 7
+  - Ball_1
+  - 15
+  - 14
+  - 20
+  - 34
+  - 24
+  - Ball_2
+  - 38
+  - 11
+  - 39
+  - 36
+  - 32
+  - 17
+  - 9
+  - 22
+  - 21
+  - 25
+  - 19
+  - 31
+  - 12
+  - 35
+  m_Tag: SkinAtlas
+  m_IsVariant: 0

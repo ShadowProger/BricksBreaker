@@ -1,0 +1,77 @@
+<Generator>
+    <Rule 
+        minLine = "1" 
+        maxLine = "5" 
+        doubleBlockChance = "0">
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "100">
+            <BlockType name = "BallBonus"/>
+        </Block>
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "100">
+            <BlockType name = "Brick"/>
+        </Block>
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "15">
+            <BlockType name = "StarBonus"/>
+        </Block>
+    </Rule>
+    <Rule 
+        minLine = "6" 
+        maxLine = "30" 
+        doubleBlockChance = "15">
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "100">
+            <BlockType name = "BallBonus"/>
+        </Block>
+        <Block 
+            minCount = "1" 
+            maxCount = "3" 
+            chance = "100">
+            <BlockType name = "Brick"/>
+        </Block>
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "15">
+            <BlockType name = "StarBonus"/>
+            <BlockType name = "ShieldBonus"/>
+            <BlockType name = "DoubleBallBonus"/>
+            <BlockType name = "Lazer"/>
+        </Block>
+    </Rule>
+    <Rule 
+        minLine = "31" 
+        maxLine = "-1" 
+        doubleBlockChance = "15">
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "100">
+            <BlockType name = "BallBonus"/>
+        </Block>
+        <Block 
+            minCount = "1" 
+            maxCount = "6" 
+            chance = "100">
+            <BlockType name = "Brick"/>
+        </Block>
+        <Block 
+            minCount = "1" 
+            maxCount = "1" 
+            chance = "15">
+            <BlockType name = "StarBonus"/>
+            <BlockType name = "ShieldBonus"/>
+            <BlockType name = "DoubleBallBonus"/>
+            <BlockType name = "Lazer"/>
+        </Block>
+    </Rule>
+</Generator>
